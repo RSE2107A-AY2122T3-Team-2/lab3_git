@@ -1,5 +1,6 @@
 # lab3_git
 
+bernard testing
 
 khairudin: I  hope to be fluent in ROS by end of this trimester.
 
@@ -10,5 +11,4 @@ ChenWeiHern testing
 
 bernard here
 This is stmok's branch on testing the merge confilcts!
-
 
