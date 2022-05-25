@@ -6,7 +6,7 @@ def callback(data):
 
 def intercept():
     	rospy.init_node('intercept', anonymous=True)
-	sub = rospy.Subscriber('chat', String, callback)
+	sub = rospy.Subscriber('chat2', String, callback)
 	pub = rospy.Publisher('chatter', String, queue_size=1)
     	rate = rospy.Rate(10) # 10hz
 
